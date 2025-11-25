@@ -2,11 +2,6 @@
 
 A simple yet visual **Python Graphics Script** using the `turtle` module. This program asks the user for a number and automatically draws that many perfectly aligned concentric circles, expanding outwards from a central point.
 
-
-
-[Image of python turtle concentric circles]
-
-
 ## 🚀 Features
 
 * **User Interaction:** Accepts a custom number of circles (`n`) from the console.
@@ -35,7 +30,7 @@ You need Python installed. The `turtle` library is included with Python by defau
 Open your terminal or command prompt and run:
 
 ```bash
-python main.py
+Concentric-Circle.py
 ```
 
 ### 3. Input
@@ -55,7 +50,6 @@ Enter Number of Circles: 15
 * It draws 15 circles.
 * The smallest circle has a radius of 20.
 * The largest circle has a radius of $20 + (14 \times 10) = 160$.
-
 
 ## ⚠️ Requirements
 * **Python 3.x**
